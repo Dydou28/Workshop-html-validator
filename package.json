@@ -1,0 +1,24 @@
+{
+  "name": "workshop-html-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "validator": "npx html-validator ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dydou28/Workshop-html-validator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dydou28/Workshop-html-validator/issues"
+  },
+  "homepage": "https://github.com/Dydou28/Workshop-html-validator#readme",
+  "type": "module",
+  "devDependencies": {
+    "w3c-html-validator": "^1.1.3"
+  }
+}
